@@ -1,0 +1,9 @@
+{
+  "name": "Upper Lower Recomp",
+  "short_name": "UL Recomp",
+  "start_url": "/upper-lower-recomp/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "icons": []
+}
